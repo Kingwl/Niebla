@@ -1,0 +1,23 @@
+{
+  "name": "niebla",
+  "version": "1.0.0",
+  "description": "small news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingwl/Niebla.git"
+  },
+  "author": "kingwl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kingwl/Niebla/issues"
+  },
+  "homepage": "https://github.com/Kingwl/Niebla#readme",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
